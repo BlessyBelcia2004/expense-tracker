@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "my-v0-project",
   "version": "0.1.0",
   "private": true,
@@ -78,5 +79,25 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.17",
     "typescript": "^5"
+=======
+  "name": "bel-pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "next": "^15.3.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/next-auth": "^3.13.0"
+>>>>>>> 57a7bc19262a9087a7d3dd2a89f8b03674508ab1
   }
 }
